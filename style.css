@@ -1,6 +1,7 @@
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
   background: #444444;
+  color: #ffffff;
   margin: 0;
   padding: 0;
 }
@@ -15,7 +16,7 @@ body {
 }
 h1 {
   margin-bottom: 24px;
-  color: #375a7f;
+  color: #2986cc;
 }
 .battery-info {
   font-size: 1.2em;
